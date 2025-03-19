@@ -7,6 +7,6 @@ In this project we use **neural network** to control the velocity of three motor
 
 #### Some Images
 **Image 1 The Loss in Test**
-![alt text](images/test_loss.png)
+![alt text](images/test_loss.png)<br>
 **Image 2 The Loss in Train**
 ![alt text](images/train_loss.png)
